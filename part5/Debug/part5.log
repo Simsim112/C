@@ -1,0 +1,6 @@
+﻿  CLinkedList.c
+D:\C\part5\CLinkedList.c(32,23): warning C4033: 'insertFirstNode'은(는) 값을 반환해야 합니다.
+D:\C\part5\CLinkedList.c(53,23): warning C4033: 'insertLastNode'은(는) 값을 반환해야 합니다.
+D:\C\part5\CLinkedList.c(48): warning C4715: 'insertFirstNode': 모든 제어 경로에서 값을 반환하지는 않습니다.
+D:\C\part5\CLinkedList.c(63): warning C4715: 'insertLastNode': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  part5.vcxproj -> D:\C\Algorithm\Debug\part5.exe

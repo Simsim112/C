@@ -1,0 +1,27 @@
+﻿  ArrayList.c
+  Point.c
+  코드를 생성하고 있습니다...
+  PointListMain.c
+D:\C\part3\PointListMain.c(16,21): warning C4047: '함수': 'LData'의 간접 참조 수준이 'Point *'과(와) 다릅니다.
+D:\C\part3\PointListMain.c(16,17): warning C4024: 'LInsert': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+D:\C\part3\PointListMain.c(20,21): warning C4047: '함수': 'LData'의 간접 참조 수준이 'Point *'과(와) 다릅니다.
+D:\C\part3\PointListMain.c(20,17): warning C4024: 'LInsert': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+D:\C\part3\PointListMain.c(24,21): warning C4047: '함수': 'LData'의 간접 참조 수준이 'Point *'과(와) 다릅니다.
+D:\C\part3\PointListMain.c(24,17): warning C4024: 'LInsert': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+D:\C\part3\PointListMain.c(28,21): warning C4047: '함수': 'LData'의 간접 참조 수준이 'Point *'과(와) 다릅니다.
+D:\C\part3\PointListMain.c(28,17): warning C4024: 'LInsert': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+D:\C\part3\PointListMain.c(32,25): warning C4047: '함수': 'LData *'의 간접 참조 수준이 'Point **'과(와) 다릅니다.
+D:\C\part3\PointListMain.c(32,20): warning C4024: 'LFirst': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+D:\C\part3\PointListMain.c(36,28): warning C4047: '함수': 'LData *'의 간접 참조 수준이 'Point **'과(와) 다릅니다.
+D:\C\part3\PointListMain.c(36,23): warning C4024: 'LNext': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+D:\C\part3\PointListMain.c(45,25): warning C4047: '함수': 'LData *'의 간접 참조 수준이 'Point **'과(와) 다릅니다.
+D:\C\part3\PointListMain.c(45,20): warning C4024: 'LFirst': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+D:\C\part3\PointListMain.c(49,25): warning C4047: '=': 'Point *'의 간접 참조 수준이 'LData'과(와) 다릅니다.
+D:\C\part3\PointListMain.c(53,28): warning C4047: '함수': 'LData *'의 간접 참조 수준이 'Point **'과(와) 다릅니다.
+D:\C\part3\PointListMain.c(53,23): warning C4024: 'LNext': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+D:\C\part3\PointListMain.c(57,26): warning C4047: '=': 'Point *'의 간접 참조 수준이 'LData'과(와) 다릅니다.
+D:\C\part3\PointListMain.c(65,25): warning C4047: '함수': 'LData *'의 간접 참조 수준이 'Point **'과(와) 다릅니다.
+D:\C\part3\PointListMain.c(65,20): warning C4024: 'LFirst': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+D:\C\part3\PointListMain.c(69,28): warning C4047: '함수': 'LData *'의 간접 참조 수준이 'Point **'과(와) 다릅니다.
+D:\C\part3\PointListMain.c(69,23): warning C4024: 'LNext': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+  part3.vcxproj -> D:\C\Algorithm\Debug\part3.exe
